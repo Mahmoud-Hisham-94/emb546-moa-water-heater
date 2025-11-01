@@ -9,6 +9,7 @@
 ## 📋 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
+- [📸 Screenshots](#-screenshots)
 - [✨ Features](#-features)
 - [🔧 Hardware Requirements](#-hardware-requirements)
 - [🏗️ Software Architecture](#️-software-architecture)
@@ -17,7 +18,6 @@
 - [💡 Usage](#-usage)
 - [🔄 System Operation](#-system-operation)
 - [🛠️ Development](#️-development)
-- [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👥 Authors](#-authors)
@@ -34,6 +34,12 @@ The EMB546 MOA Water Heater Control System is an advanced embedded systems proje
 - **Intuitive User Interface** with seven-segment displays
 - **Automated Control Logic** for heating and cooling
 - **Safety Features** with temperature limits and indicators
+
+## 📸 Screenshots
+
+![Water Heater Control System](Screenshot%202025-11-01%20204554.png)
+
+*Water Heater Control System - Hardware setup and circuit simulation*
 
 ## ✨ Features
 
@@ -257,10 +263,6 @@ The system can be easily customized by modifying:
 - Display update intervals
 - Control logic parameters
 - Additional sensor inputs
-
-## 📸 Screenshots
-
-*[Add screenshots of your hardware setup, display readings, and system in operation]*
 
 ## 🤝 Contributing
 
